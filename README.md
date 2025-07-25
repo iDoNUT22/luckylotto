@@ -1,1 +1,1 @@
-# luckylotto
+# luckylottogenerator
